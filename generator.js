@@ -18,3 +18,5 @@ const phraseSel = (arr1, arr2, arr3) => {
 };
 
 console.log(phraseSel(inicioFrase, meioFrase, fimFrase));
+
+// :)
